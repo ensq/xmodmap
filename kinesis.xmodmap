@@ -1,0 +1,28 @@
+! Ommappningar giltiga för ett Kinesis Advantage MPC/USB 2006
+
+clear Lock
+clear Control
+clear mod1
+clear mod2
+clear mod4
+clear mod5
+
+! 66 är Caps Lock
+keycode 66 = Control_L
+! 134 är Ctrl (höger)
+keycode 134 = Control_R
+! 64 är Alt (vänster)
+keycode 64 = Mode_switch
+! 105 är fornminne
+keycode 105 = Alt_R
+! 133 är Ctrl (vänster)
+keycode 133 = Control_L
+
+! åäö
+keycode 51 = backslash bar aring Aring
+keycode 47 = semicolon colon odiaeresis Odiaeresis
+keycode 48 = apostrophe quotedbl adiaeresis Adiaeresis
+
+add Control = Control_L
+add Control = Control_R
+add mod1 = Alt_R
