@@ -8,7 +8,7 @@ clear mod4
 clear mod5
 
 ! 66 är Caps Lock
-keycode 66 = Control_L
+keycode 66 = Mode_switch
 ! 134 är Ctrl (höger)
 keycode 134 = Control_R
 ! 64 är Alt (vänster)
