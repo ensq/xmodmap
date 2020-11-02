@@ -2,6 +2,7 @@
 keycode 66 = Mode_switch
 
 ! åäö
-keycode 34 = bracketleft braceleft aring Aring
+keycode 34 = aring Aring bracketleft braceleft
 keycode 47 = semicolon colon odiaeresis Odiaeresis
-keycode 48 = apostrophe quotedbl adiaeresis Adiaeresis
+keycode 47 = odiaeresis Odiaeresis semicolon colon
+keycode 48 = adiaeresis Adiaeresis apostrophe quotedbl
