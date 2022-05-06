@@ -9,8 +9,6 @@ clear mod5
 
 ! 66 är Caps Lock
 keycode 66 = Mode_switch
-! 134 är Ctrl (höger)
-keycode 134 = Control_R
 ! 64 är Alt (vänster)
 keycode 64 = Alt_L
 ! 105 är fornminne
